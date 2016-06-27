@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temp Converter 1.0</string>
+    <string name="degreeLabel">Degree</string>
+    <string name="fahrenheitLabel">Fahrenheit</string>
+    <string name="fahrenheitEditText">100</string>
+    <string name="celsiusLabel">Celsius</string>
+    <string name="celsiusTextView">37.778</string>
+
+</resources>
